@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
     //마스터
     //마스터백업
 
+    public void test2() {
+
+    }
+
     public void test() {
         int a = 10;
         int b = 20;
